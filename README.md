@@ -1,0 +1,2 @@
+# SolomonToday
+creating new repository
